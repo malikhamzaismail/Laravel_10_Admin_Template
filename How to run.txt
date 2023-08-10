@@ -1,0 +1,5 @@
+Laravel 10
+PHP 8.2.4
+
+php folder copy into c\xampp
+and install composer related this php version
